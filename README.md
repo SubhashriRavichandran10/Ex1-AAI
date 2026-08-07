@@ -1,6 +1,7 @@
 <H3> Name : SUBHASHRI R </H3>
 <H3>Register No: 212223230219 </H3>
 <H3> Experiment 1</H3>
+<H3>DATE: 20.07.2026</H3>
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
 ## Aim :
     To create a bayesian Network for the given dataset in Python
